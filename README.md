@@ -1,1 +1,1 @@
-# Hello gitHub cli
+# W tym repozytorium znajdziesz rozwiązania zadań z kursu programowanie1 na Uniwersytecie Jagiellonskim prowadzonego przez dr. Kawe. Każde z zadań uzyskało wynik 100% w systemie automatycznego oceniania zadań Baca.
